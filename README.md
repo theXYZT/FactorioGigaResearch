@@ -1,2 +1,3 @@
-# FactorioGigaResearch
+# GigaResearch
+
 A Factorio mod.
